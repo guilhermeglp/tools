@@ -1,0 +1,7 @@
+{
+    "url": "https://raw.githubusercontent.com/guilhermeglp/tools/main/test.yaml",
+    "urls": [{
+        "url": "https://raw.githubusercontent.com/guilhermeglp/tools/main/test.yaml",
+        "name": "Foo"
+    }]
+}
